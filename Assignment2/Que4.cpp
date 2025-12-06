@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-void concat2()
+void concat2()  
 {
+    
     char s1[100], s2[100];
     cout << "Enter the first string: ";
     cin >> s1;
